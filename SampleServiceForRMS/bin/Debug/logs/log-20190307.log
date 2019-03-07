@@ -1,0 +1,15 @@
+2019-03-07 09:19:25.861 -05:00 [INF] Starting up
+2019-03-07 09:20:25.985 -05:00 [INF] One minute is up
+2019-03-07 09:20:26.042 -05:00 [ERR] Passed argument 'EmailId' can not be blank.
+2019-03-07 09:20:26.049 -05:00 [ERR] Passed argument 'EmailId' can not be blank.
+2019-03-07 09:21:25.961 -05:00 [INF] One minute is up
+2019-03-07 09:21:25.961 -05:00 [ERR] Passed argument 'EmailId' can not be blank.
+2019-03-07 09:21:25.962 -05:00 [ERR] Passed argument 'EmailId' can not be blank.
+2019-03-07 09:22:25.961 -05:00 [INF] One minute is up
+2019-03-07 09:22:25.962 -05:00 [ERR] Passed argument 'EmailId' can not be blank.
+2019-03-07 09:22:25.962 -05:00 [ERR] Passed argument 'EmailId' can not be blank.
+2019-03-07 09:28:10.643 -05:00 [INF] Starting up
+2019-03-07 09:29:10.701 -05:00 [INF] One minute is up
+2019-03-07 09:29:12.438 -05:00 [INF] Data has been fetched successfully.
+2019-03-07 09:29:12.438 -05:00 [INF] RMS.DSP.UploadDownloadAPI.Entity.RmsClientMasterDataEntity
+2019-03-07 09:29:14.197 -05:00 [ERR] Due to some technical issue, not able to upload the account.
